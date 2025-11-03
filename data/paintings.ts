@@ -134,4 +134,16 @@ export const paintings: Painting[] = [
     dimensions: '50 x 60 cm',
     imageUrl: '/paintings/15/FD8CE703-F45C-4AAD-B44F-B077B806C807.jpeg',
   },
+  {
+    id: '16',
+    title: 'Pintura 16',
+    year: 2024,
+    medium: 'Óleo sobre lienzo',
+    dimensions: '50 x 60 cm',
+    imageUrl: '/paintings/16/IMG_4992.jpeg',
+    additionalImages: [
+      '/paintings/16/IMG_4993.jpeg',
+      '/paintings/16/IMG_4994.jpeg',
+    ],
+  },
 ];
